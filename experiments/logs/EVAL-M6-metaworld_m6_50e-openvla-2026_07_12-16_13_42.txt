@@ -1,0 +1,9 @@
+Task suite: metaworld_m6_50e
+Tasks: peg-insert-side-v3, basketball-v3, coffee-pull-v3, pick-place-wall-v3, pick-out-of-hole-v3, box-close-v3
+peg-insert-side-v3: average_return=89.1254, success_rate=36.00%
+basketball-v3: average_return=22.5369, success_rate=0.00%
+coffee-pull-v3: average_return=76.6467, success_rate=76.00%
+pick-place-wall-v3: average_return=288.3341, success_rate=98.00%
+pick-out-of-hole-v3: average_return=12.4524, success_rate=0.00%
+box-close-v3: average_return=251.7051, success_rate=34.00%
+Overall M6 success_rate=40.67% (122/300)
